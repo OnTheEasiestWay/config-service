@@ -13,7 +13,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/OnTheEasiestWay/config-repo.git
+          uri: https://github.com/OnTheEasiestWay/config-repo
           default-label: main
           timeout: 5
           clone-on-start: true
